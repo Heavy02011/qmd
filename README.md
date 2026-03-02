@@ -6,6 +6,8 @@ QMD combines BM25 full-text search, vector semantic search, and LLM re-rankingâ€
 
 ![QMD Architecture](assets/qmd-architecture.png)
 
+For a source-level architecture map of the codebase, see [docs/CODEBASE_ARCHITECTURE.md](docs/CODEBASE_ARCHITECTURE.md).
+
 You can read more about QMD's progress in the [CHANGELOG](CHANGELOG.md).
 
 ## Quick Start
